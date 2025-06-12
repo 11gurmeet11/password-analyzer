@@ -6,7 +6,7 @@ A modern, responsive password strength analyzer built using **HTML**, **CSS**, a
 
 ## 📸 Screenshot
 
-![Password Analyzer Screenshot]
+![Password Analyzer Screenshot](pass_screenshot.png)
 
 
 
